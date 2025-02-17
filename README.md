@@ -2,11 +2,7 @@
 A Parking Dapp on Ethereum Blockchain.
 
 ## Contract
-The code `ParkingPlaces.sol` were published under `/contracts` in this repository. 
-**It is verified under** 
-
-1. <https://morden.ether.camp/account/ad3d7d21862dfa1f9d91569240a9ed06ac276b4d>
-2. <http://testnet.etherscan.io/address/0xad3d7d21862dfa1f9d91569240a9ed06ac276b4d#code>
+The code `ParkingPlaces.sol` were published under `/contracts` in this repository.
 
 ### Installing
 **A docker container "geth-node" with geth and solc is already available**. You can also take the online compiler and connect them to local Ethereum client or docker container.
